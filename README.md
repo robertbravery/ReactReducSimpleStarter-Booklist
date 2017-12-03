@@ -1,4 +1,5 @@
 # ReduxSimpleStarter
+This is a clone of the repo from Stephen Grider. I'll be working through the Udemy course
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
